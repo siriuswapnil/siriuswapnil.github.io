@@ -1,10 +1,10 @@
 +++
-title = "This is a test post"
-date = 2022-01-01
-draft = true
+title = "Experiments with Query profiling"
+date = 2024-11-18
+draft = false
 
 [taxonomies]
-categories = ["one"]
+categories = ["Backend Development"]
 tags = ["one", "two", "three"]
 
 [extra]
@@ -22,8 +22,6 @@ featured = false
 reaction = false
 +++
 
-new post about something...
 
-<!-- more -->
-
-more post content...
+# Queries while building a URL Shortener
+# Queries while building a Todo List
