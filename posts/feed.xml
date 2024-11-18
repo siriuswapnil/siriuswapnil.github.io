@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>My Blog</title>
+	<subtitle>My blog site.</subtitle>
+	<link href="https://siriuswapnil.github.io/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://siriuswapnil.github.io/posts/"/>
+	<updated>2024-11-18T00:00:00+00:00</updated>
+	<id>https://siriuswapnil.github.io/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Experiments with Query profiling</title>
+		<published>2024-11-18T00:00:00+00:00</published>
+		<updated>2024-11-18T00:00:00+00:00</updated>
+		<link href="https://siriuswapnil.github.io/posts/backend-1/" type="text/html"/>
+		<id>https://siriuswapnil.github.io/posts/backend-1/</id>
+		<content type="html">&lt;h1 id=&quot;queries-while-building-a-url-shortener&quot;&gt;Queries while building a URL Shortener&lt;a class=&quot;zola-anchor&quot; href=&quot;#queries-while-building-a-url-shortener&quot; aria-label=&quot;Anchor link for: queries-while-building-a-url-shortener&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;queries-while-building-a-todo-list&quot;&gt;Queries while building a Todo List&lt;a class=&quot;zola-anchor&quot; href=&quot;#queries-while-building-a-todo-list&quot; aria-label=&quot;Anchor link for: queries-while-building-a-todo-list&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+</content>
+	</entry>
+</feed>

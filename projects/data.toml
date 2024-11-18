@@ -1,0 +1,8 @@
+[[project]]
+name = "NLP MATCHMAKING"
+desc = "Using TF-IDF and Keyword Extraction techniques to perform matchmaking between multiple parties in multi event system. (Python, Flask, NLTK, SQLite, Bootstrap)"
+tags = ["NLP"]
+img = "https://picsum.photos/200/300"
+links = [
+  { name = "Github", url = "https://github.com/siriuswapnil/" },
+]
